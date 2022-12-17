@@ -1,0 +1,1 @@
+INSERT INTO springrestapi_springboot VALUES (1,'Alexandra', 'Russia,Voronesh,Rossoch',80000.00);
